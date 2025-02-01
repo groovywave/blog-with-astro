@@ -94,4 +94,3 @@ You practice
 <p>You practice TIP23 and then <a>you</a> will be better!</p>
 
 ```
-```
