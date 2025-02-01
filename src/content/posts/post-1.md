@@ -21,7 +21,6 @@ tags: ["vim",]
 ### 練習文
 
 ```
-```
 
 /TIP0 1 1 cr x . . 
 You practice TIP011
