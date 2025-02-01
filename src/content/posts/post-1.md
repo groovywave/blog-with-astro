@@ -22,7 +22,7 @@ tags: ["vim",]
 
 ```
 
-/TIP0 1 1 cr x . . 
+/TIP0 1 1 cr x . . <Esc>
 You practice TIP011
 
 /TIP0 1 2 <cr> :noh d d . . <Esc>
