@@ -20,6 +20,9 @@ tags: ["vim",]
 
 ### 練習文
 
+```
+```
+
 /TIP0 1 1 cr x . . 
 You practice TIP011
 
@@ -90,3 +93,6 @@ You practice
 
 /TIP2 3 :noh v i t U <Esc>
 <p>You practice TIP23 and then <a>you</a> will be better!</p>
+
+```
+```
