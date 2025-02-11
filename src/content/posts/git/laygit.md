@@ -1,14 +1,14 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Git]Short cut for lazygit lazynvim'
+title: '[Git]Short cut for lazygit and lazynvim'
 pubDate: 2025-02-11
 description: 'Git practice'
 author: 'Noritaka'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'Astro'
-tags: ["Git", "Lazynvim"]
+tags: ["Lazygit", "Lazynvim"]
 ---
 
 
