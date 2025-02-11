@@ -7,7 +7,7 @@ description: 'Git practice'
 author: 'Noritaka'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
-    alt: 'Astroのロゴ。'
+    alt: 'Astro'
 tags: ["Git",]
 ---
 
