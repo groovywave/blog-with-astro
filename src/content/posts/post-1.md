@@ -3,7 +3,7 @@
 title: 'Vimを操縦してみよう'
 pubDate: 2025-01-30
 description: 'Vim practice'
-author: 'hasenori'
+author: 'Noritaka'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'Astroのロゴ。'

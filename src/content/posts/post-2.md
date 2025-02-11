@@ -3,7 +3,7 @@
 title: 'マークダウンを知ろう'
 pubDate: 2025-01-30
 description: 'Markdown practice'
-author: 'hasenori'
+author: 'Noritaka'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'Astroのロゴ。'
