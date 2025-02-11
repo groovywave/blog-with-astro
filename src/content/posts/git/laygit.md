@@ -12,6 +12,8 @@ tags: ["Git",]
 ---
 
 
+
+**short cut for lazygit**
 ```
 **short cut for lazygit**
 ---
