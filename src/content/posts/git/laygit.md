@@ -16,7 +16,7 @@ tags: ["Git",]
 short cut for lazygit
 ---
 <space> g g (Open lazygit)
-<Space>     (Sent some files to staging area)
+<Space>     (Send some files to staging area)
 c           (Do commit)
 P           (Do push)
 ---
