@@ -4,7 +4,7 @@
 title: '[Git]Short cut for lazygit'
 pubDate: 2025-02-11
 description: 'Git practice'
-author: 'hasenori'
+author: 'Noritaka'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'Astroのロゴ。'
