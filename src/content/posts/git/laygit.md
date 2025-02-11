@@ -21,6 +21,6 @@ tags: ["Git", "Lazynvim"]
 4. P             (Do push)
 5. <Space> e     (Open directory tree)
 6. <C-h>         (move to directory tree)
-7. <C-arrow key> (Expand window)
+7. <C-'arrow key'> (Expand window)
 8. :Lazy <CR> U  (Update Lazynvim)
 ```
