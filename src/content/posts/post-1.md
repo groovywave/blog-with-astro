@@ -1,6 +1,6 @@
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Vimを操縦してみよう'
+title: '[WIP}Vim'
 pubDate: 2025-01-30
 description: 'Vim practice'
 author: 'Noritaka'
@@ -10,7 +10,7 @@ image:
 tags: ["vim",]
 ---
 
-## やること
+## [WIP]This is just a draft.
 
 1. **以下の練習文をメモ帳ファイル等にコピペ**
 2. **ファイルに名前をつける**
