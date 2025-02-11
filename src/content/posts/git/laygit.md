@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Git]Short cut for lazygit'
+title: '[Git]Short cut for lazygit lazynvim'
 pubDate: 2025-02-11
 description: 'Git practice'
 author: 'Noritaka'
