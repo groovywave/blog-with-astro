@@ -8,7 +8,7 @@ const pageTitle = "About me";
 const identity = {
   firstName: "Noritaka",
   country: "Japan",
-  occupation: "Public servant",
+  occupation: "public servant",
   hobbies: ["Doing Zumba", "Playing futsal", "Doing Jiu-Jitsu"],
 };
 
@@ -39,10 +39,10 @@ const textCase = "upperCase";
     <li>I'm {identity.firstName}.</li>
     <li>I live in {identity.country} and work as a {identity.occupation}.</li>
     {identity.hobbies.length >= 2 &&
-      <li>My hobbies are {identity.hobbies[0]}and{identity.hobbies[1]}.</li>
+      <li>My hobbies are {identity.hobbies[0]} and {identity.hobbies[1]}.</li>
     }
   </ul>
-  <p>My skills</p>
+  <h2>My skills</h2>
   <ul>
     {skills.map((skill) => <li class="skill">{skill}</li>)}
   </ul>
