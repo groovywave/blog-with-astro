@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]lazygitショートカット'
+title: '[Git]lazygitショートカット'
 pubDate: 2025-02-11
 description: 'Git practice'
 author: 'hasenori'
