@@ -1,6 +1,6 @@
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[WIP}Vim'
+title: '[WIP]Draft Vim'
 pubDate: 2025-01-30
 description: 'Vim practice'
 author: 'Noritaka'
