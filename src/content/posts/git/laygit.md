@@ -15,7 +15,7 @@ tags: ["Git",]
 
 **short cut for lazygit**
 ```
-1. <Space> g g (Open lazygit)q
+1. <Space> g g (Open lazygit)
 2. <Space>     (Send some files to staging area)
 3. c           (Do commit)
 4. P           (Do push)
