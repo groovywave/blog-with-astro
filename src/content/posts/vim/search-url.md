@@ -1,0 +1,36 @@
+
+---
+# layout: ../../layouts/MarkdownPostLayout.astro
+title: '[Vim]Search URL'
+pubDate: 2025-02-14
+description: 'Vim practice'
+author: 'Noritaka'
+image:
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'Astroのロゴ。'
+tags: ["Vim",]
+---
+
+
+```
+Search URL
+Copy and paste the below text and type some commands like below.
+
+---
+1. /tip 7 8 1 <CR> j 
+2. "uyi[ (write two lines)
+3. /\V<C-r>u <CR> (swap lines)
+4. n n n n n 
+5. /tip7 8 1 <CR> j
+6. V*ci[
+7. https://www.google.com <CR> <Esc>
+8. n . n . n .
+---
+tip781
+[http://vimdoc.net/]
+[http://vimdoc.net/]
+[http://vimdoc.net/]
+[http://vimdoc.net/]
+[http://emacsdoc.net/]
+[http://tmuxdoc.net/]
+```
