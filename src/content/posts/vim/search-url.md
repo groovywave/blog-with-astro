@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Search URL'
+title: '[Vim]Search and replace URL'
 pubDate: 2025-02-14
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-Search URL
+Search and replace URL
 Copy and paste the below text and type some commands like below.
 
 ---
