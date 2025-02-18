@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Search for an exact match
+title: '[Vim]Search for an exact match'
 pubDate: 2025-02-16
 description: 'Vim practice'
 author: 'Noritaka'
