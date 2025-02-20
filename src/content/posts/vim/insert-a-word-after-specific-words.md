@@ -1,8 +1,8 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Swap lines'
-pubDate: 2025-02-14
+title: '[Vim]Insert a word after specific word'
+pubDate: 2025-02-20
 description: 'Vim practice'
 author: 'Noritaka'
 image:
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-Swap lines
+Insert a word after specific word
 Copy and paste the below text and type some commands like below.
 
 ---
