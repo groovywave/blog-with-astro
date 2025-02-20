@@ -3,7 +3,7 @@
 # layout: ../../layouts/MarkdownPostLayout.astro
 title: '[Vim]Count specific words
 '
-pubDate: 2025-02-14
+pubDate: 2025-02-20
 description: 'Vim practice'
 author: 'Noritaka'
 image:
