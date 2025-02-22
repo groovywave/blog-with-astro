@@ -17,7 +17,19 @@ Convert a specific word to uppercase
 Copy and paste the below text and type some commands like below.
 
 ---
-1. oupper<CR>lower<Esc>k (write two lines)
-2. ddp                   (swap lines)
+1. /\v X(ht)?ml \C (Search for a specific pattern using very magic mode and case sensitivity)
+2. gU//e <CR>      (Convert the only matching parts of the previous search pattern to uppercase)
+3. // <CR>         (search again)
+4. .  <CR>         (convert again)
 ---
+
+XhtmlDoc
+XmlDoc
+XhtmlLTag
+XmlTag
+
+XHTMLDoc
+XMLDoc
+XHTMLTag
+XHTMLTag
 ```
