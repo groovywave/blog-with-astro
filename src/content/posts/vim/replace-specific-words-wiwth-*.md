@@ -1,8 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Replace quated words
-'
+title: '[Vim]Replace quated words'
 pubDate: 2025-02-23
 description: 'Vim practice'
 author: 'Noritaka'
