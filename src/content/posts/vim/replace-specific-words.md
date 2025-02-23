@@ -3,7 +3,7 @@
 # layout: ../../layouts/MarkdownPostLayout.astro
 title: '[Vim]Replace quated words
 '
-pubDate: 2025-02-14
+pubDate: 2025-02-23
 description: 'Vim practice'
 author: 'Noritaka'
 image:
@@ -17,14 +17,19 @@ tags: ["Vim",]
 Replace Search quated words
 Copy and paste the below text and type some commands like below.
 
+---     
+1. /saaaa <CR>     (search saaaa)
+2. cwsea <Esc>     (change the words)
+3. n . n .         (change the words)
+4. /I <CR><Esc>    (search the she)
+5. vwe <CR><Esc>   (hightlight she sells)
+6. c I sell <Esc>  (change the words)
+7. /I <CR><Esc>    (search the she)
+7. vwe*            (search the she)
+8. . n .           (next)
 ---
-1. /saaaa <CR>   (search saaaa)
-2. cwsea         (change the words)
-3. /she <CR>     (search the she)
-2. vwe* <CR>     (hightlight she sells)
-2. cw I sell     (change the words)
-3. n .           (next)
----
-she sells saaaa shells by the saaaa shore
-she sells saaaa ahells by the saaaa shore
+I sell sea shells by the sea shore
+I sell sea shells by the sea shore
+I sell sea shells by the sea shore
+I sell sea ahells by the sea shore
 ```
