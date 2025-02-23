@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Search quated words
+title: '[Vim]Search specific words
 '
 pubDate: 2025-02-14
 description: 'Vim practice'
@@ -14,7 +14,7 @@ tags: ["Vim",]
 
 
 ```
-Search quated words
+Search specific words
 Copy and paste the below text and type some commands like below.
 
 ---
