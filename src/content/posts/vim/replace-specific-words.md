@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Replace quated words
+title: '[Vim]Replace specific words
 '
 pubDate: 2025-02-23
 description: 'Vim practice'
@@ -14,7 +14,7 @@ tags: ["Vim",]
 
 
 ```
-Replace Search quated words
+Replace Search specific words
 Copy and paste the below text and type some commands like below.
 
 ---     
@@ -28,8 +28,8 @@ Copy and paste the below text and type some commands like below.
 7. vwe*            (search the she)
 8. . n .           (next)
 ---
-i sell saaaa shells by the saaaa shore
-I sell saaaa shells by the saaaa shore
-I sell saaaa shells by the saaaa shore
-I sell saaaa ahells by the saaaa shore
+I sell sea shells by the sea shore
+I sell sea shells by the sea shore
+I sell sea shells by the sea shore
+I sell sea ahells by the sea shore
 ```
