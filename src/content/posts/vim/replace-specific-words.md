@@ -14,22 +14,14 @@ tags: ["Vim",]
 
 
 ```
-Replace Search specific words
+Replace specific words
 Copy and paste the below text and type some commands like below.
 
 ---     
-1. /saaaa <CR>     (search saaaa)
-2. cwsea <Esc>     (change the words)
-3. n . n .         (change the words)
-4. /I <CR><Esc>    (search the she)
-5. vwe <CR><Esc>   (hightlight she sells)
-6. c I sell <Esc>  (change the words)
-7. /I <CR><Esc>    (search the she)
-7. vwe*            (search the she)
-8. . n .           (next)
+1. :%s/saaaa/sea/gc <CR>     (replace saaaa to sea)
 ---
-I sell sea shells by the sea shore
-I sell sea shells by the sea shore
-I sell sea shells by the sea shore
-I sell sea ahells by the sea shore
+I sell saaaa shells by the saaaa shore
+I sell saaaa shells by the saaaa shore
+I sell saaaa shells by the saaaa shore
+I sell saaaa shells by the saaaa shore
 ```

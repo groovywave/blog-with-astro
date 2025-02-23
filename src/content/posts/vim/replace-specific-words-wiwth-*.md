@@ -18,17 +18,15 @@ Replace Search quated words
 Copy and paste the below text and type some commands like below.
 
 ---     
-1. /saaaa <CR>     (search saaaa)
-2. cwsea <Esc>     (change the words)
-3. n . n .         (change the words)
-4. /I <CR><Esc>    (search the she)
-5. vwe <CR><Esc>   (hightlight she sells)
-6. c I sell <Esc>  (change the words)
-7. /I <CR><Esc>    (search the she)
-7. vwe*            (search the she)
-8. . n .           (next)
+1. /saaaa <CR>            (search saaaa)
+2. cwsea <Esc>            (change the words)
+3. n . n .                (change the words)
+4. /I <CR><Esc>           (search the she)
+5. vwe* <CR><Esc>           (hightlight she sells)
+6. vwe c She sells <Esc>  (change the words)
+8. n . n .n .             (next)
 ---
-i sell saaaa shells by the saaaa shore
+I sell saaaa shells by the saaaa shore
 I sell saaaa shells by the saaaa shore
 I sell saaaa shells by the saaaa shore
 I sell saaaa ahells by the saaaa shore
