@@ -1,8 +1,8 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Convert to uppercase or lowercase'
-pubDate: 2025-02-14
+title: '[Vim]Change some words'
+pubDate: 2025-02-24
 description: 'Vim practice'
 author: 'Noritaka'
 image:
@@ -13,13 +13,12 @@ tags: ["Vim",]
 
 
 ```
-Convert to uppercase or lowercase
+Change some words
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP1 1 2 <CR> <Esc>
-2. v u v U 
-3. V u V U
+1. /TIP1 1 1 <CR> <Esc> 
+2. c 4 w We              (change 4 words)
 ---
-You practie TIP112 and then you will be better
+You practie TIP111 and then you will be better
 ```
