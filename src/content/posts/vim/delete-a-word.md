@@ -18,7 +18,7 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /TIP0 9 1 <CR><Esc>
-2. e d b x              (delete a word)
+2. e d b x 
 ---
 You practie TIP091
 ```
