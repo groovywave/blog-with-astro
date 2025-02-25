@@ -1,8 +1,9 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Change some words'
-pubDate: 2025-02-24
+title: '[Vim]convert-to-uppercase-lowercase-in-tag-simple
+'
+pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
 image:
@@ -11,9 +12,8 @@ image:
 tags: ["Vim",]
 ---
 
-
 ```
-Change some words
+Change some wordshange some words
 Copy and paste the below text and type some commands like below.
 
 ---
