@@ -17,8 +17,11 @@ Change some words
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP1 1 1 <CR> <Esc> 
-2. c 4 w We              (change 4 words)
+1. /TIP 2 3 2 <CR> <Esc>
+2. gUit                    (convert to uppercase in tag)
+3. j. j.                   (redo)
 ---
-You practie TIP111 and then you will be better
+<a href="#">TIP232 you</a>
+<a href="#">you and me</a>
+<a href="#">you</a>
 ```
