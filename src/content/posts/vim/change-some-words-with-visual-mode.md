@@ -16,16 +16,10 @@ change-some-words-with-visual-mode
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP2 4 1 <CR> <Esc>
-2. ved         (delete a word)
-3. <C-q> 3j    (delete a word or <C-v> 3j)
-4. x..         (delet 3 columns)
-5. gv          (select again)
-6. r|          (replace with |)
-7  yyp         (copy and paste a line)
-8. Vr-         (replace with -)
+1. /TIP 2 5 1 <CR> <Esc> 
+2. <C-q> jje 
+3. c components <Esc> 
 ---
-id TIP241    value
-a      10
-b      20
-c      30
+li.one   a{ background-image: url('/TIP251/sprite.png'); }
+li.two   a{ background-image: url('/images/sprite.png'); }
+li.three a{ background-image: url('/images/sprite.png'); }
