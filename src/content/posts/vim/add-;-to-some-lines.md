@@ -17,7 +17,7 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /TIP 2 6 1 <CR> <Esc>
-2. <C-q> jj$ (select with visual mode)
+2. j <C-q> j$ (select with visual mode <C-q> or <C-v>)
 3. A; <Esc>  (add ;)
 ---
 const foo = TIP261;
