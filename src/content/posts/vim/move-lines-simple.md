@@ -18,7 +18,9 @@ Move and change the word
 Copy and paste the below text and type some commands like below.
 
 ---
-/TIP2 9 3 <CR>  Vj dGp
+1. /TIP2 9 3 <CR> <Esc>
+2. Vj 
+3. dGp
 ---
 Shoping list
 	TIP293 Hardware Store
