@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Change some words'
+title: '[Vim]select-all'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -11,14 +11,14 @@ image:
 tags: ["Vim",]
 ---
 
-
 ```
-Change some words
+select-all
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP1 1 1 <CR> <Esc> 
-2. c 4 w We              (change 4 words)
+1. /we <CR> <Esc>
+2. cw you <Esc>
+3. cW I'm <Esc>
 ---
-You practie TIP111 and then you will be better
+we're going too slow
 ```
