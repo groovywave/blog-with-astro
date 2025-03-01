@@ -19,5 +19,5 @@ Copy and paste the below text and type some commands like below.
 ---
 /TIP4 8 7 <CR> <Esc> fx daw
 ---
-TIP487 Improve your writing by deleting excellent adjectives.
+TIP487 Improv your writing by dleting excellent adjectives.
 ```
