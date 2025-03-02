@@ -2,7 +2,7 @@
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
 title: '[FRIENDS]badly'
-pubDate: 2025-03-2
+pubDate: 2025-03-02
 description: 'Vim practice'
 author: 'Noritaka'
 image:
