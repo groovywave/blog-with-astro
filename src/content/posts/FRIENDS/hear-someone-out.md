@@ -3,7 +3,7 @@
 # layout: ../../layouts/MarkdownPostLayout.astro
 title: '[FRIENDS]hear someone out'
 pubDate: 2025-03-02
-description: 'Vim practice'
+description: 'FRIENDS'
 author: 'Noritaka'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
