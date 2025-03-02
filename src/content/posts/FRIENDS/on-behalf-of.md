@@ -13,4 +13,4 @@ tags: ["FRIENDS",]
 
 P: Hi! Yeah, I'm calling on behalf of Monica Geller's eye. And is um, is Richard Burke in today? ... He's out of town, but does she want to see the on-call doctor?  
 M: Yes!!  
-P: Yes! she's very excited aabout that.
+P: Yes! She's very excited about that.
