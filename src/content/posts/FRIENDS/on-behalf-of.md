@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]badly'
+title: '[FRIENDS]on behalf of'
 pubDate: 2025-03-02
 description: 'Vim practice'
 author: 'Noritaka'
