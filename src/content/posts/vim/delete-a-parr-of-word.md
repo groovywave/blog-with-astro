@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Search methods'
+title: '[Vim]delete a part of word'
 pubDate: 2025-02-24
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,13 +13,13 @@ tags: ["Vim",]
 
 
 ```
-Search methods 
+delete part of a word
 Copy and paste the below text and type some commands like below.
 
 ---
-/093 <CR> <Esc> 
-2. dw u          (delete a word)
-3. daw           (delete a word)
+1. /co <CR>
+2. de          (delte to end)
+3. db          (delte to back)
 ---
-You practie TIP093
+incorrect
 ```
