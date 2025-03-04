@@ -17,7 +17,9 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. i <C-r> +
+
 it's other registers.
+
 2. "+　(clip board)
 3. "*　(clip board)
 4. "%　(current file name)
