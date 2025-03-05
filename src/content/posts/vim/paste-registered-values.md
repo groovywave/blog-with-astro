@@ -17,14 +17,18 @@ paste registered values
 copy and paste the below text and type some commands like below.
 
 ---
-1. /tip 7 3 1 (Serch the word)
-2. "0p        (Paste registered value)
-3. "1p        (Paste registered value)
-4. "2p        (Paste registered value)
-5. "3p        (Paste registered value)
-6. "4p        (Paste registered value)
-7. "4p        (Paste registered value)
-8. "5p        (Paste registered value)
+1. /Jo <CR>   (Serch the word)
+2. "/         (select clipboard value)
+3. P          (paste before)
+
+4. "0p        (Paste registered value)
+5. "1p        (Paste registered value)
+6. "2p        (Paste registered value)
+7. "3p        (Paste registered value)
+8. "4p        (Paste registered value)
+9. "4p        (Paste registered value)
+10. "5p        (Paste registered value)
 ---
+Jo
 tip731
 ```

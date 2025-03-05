@@ -16,12 +16,18 @@ yap yank paste a paragraph
 Copy and paste the below text and type some commands like below.
 
 ---
-1. yap 
-2. gP
+1. /tr <CR>
+1. yap       (yank a paragraph)
+2. P or gP   (paste)
 ---
 
-sentence1
-sentence2
-sentence3
+<table>
+
+	<tr> 
+		<td>Keystrokes</td>
+		<td>Keystrokes</td>
+	<tr>
+	
+<table>
 
 ```
