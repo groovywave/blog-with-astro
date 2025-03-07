@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]run a macro repeatedly in irregular lines'
+title: '[Vim]run a macro repeatedly on irregular lines'
 pubDate: 2025-02-11
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-run macro repeatedly in irregular lines
+run a macro repeatedly on irregular lines
 Copy and paste the below text and type some commands like below.
 
 ---
@@ -23,7 +23,7 @@ Copy and paste the below text and type some commands like below.
 4. r) w~       (replace with ) and convert next word to uppercase)
 5. q           (stop registration macro q)
 6. jVjjj       (change mode to visual and slect some lines)
-7. :normal @q  (run macro q in noramal mode)
+7. :normal @q  (run macro q on noramal mode)
 ---
 1. one
 2. two
