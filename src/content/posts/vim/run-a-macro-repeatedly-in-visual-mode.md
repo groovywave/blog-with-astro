@@ -30,5 +30,5 @@ Copy and paste the below text and type some commands like below.
 // break up the monotony
 3. three
 4. four
-tip672
+tip67
 ```
