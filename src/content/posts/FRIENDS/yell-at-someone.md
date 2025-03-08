@@ -2,7 +2,7 @@
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
 title: '[FRIENDS]yell at someone'
-pubDate: 2025-03-02
+pubDate: 2025-03-08
 description: 'FRIENDS'
 author: 'Noritaka'
 image:
