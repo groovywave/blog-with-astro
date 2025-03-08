@@ -11,6 +11,8 @@ image:
 tags: ["FRIENDS",]
 ---
 
-C: Wow! Why do you want to get rid of her so badly?  
-P: Because she exchange every gift she ever gets.  
-C: It's like impossible to get her something she likes.  
+C: Wow! Why do you want to get rid of her so badly?  <br>
+<br>
+P: Because she exchange every gift she ever gets.  <br>
+<br>
+C: It's like impossible to get her something she likes.  <br>
