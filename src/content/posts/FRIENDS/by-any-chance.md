@@ -11,8 +11,8 @@ image:
 tags: ["FRIENDS",]
 ---
 
-R:Okay, I'm hearing.<br>
+L: I didn't realize that she was so close.<br>
 <br>
-M: I've been doing a lot of thinking. A lot! And umm, well, I came up with a whole bunch of businesses you can do with your van. Okay umm, you could be flower devivery person.<br>
+R: Yes, so close. Mrs. Lynch, I know that this is an emotional and difficult time, for all of us. But **by any chance** did Joanna send any paperwork your way before... it happened.<br>
 <br>
-P: What?!<br>
+L: no. Nothing. Imagine, if she had just stepped off that curb a few second later.<br>
