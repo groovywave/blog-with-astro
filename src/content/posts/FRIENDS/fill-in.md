@@ -12,8 +12,8 @@ tags: ["FRIENDS",]
 ---
 
 M: Remember that guy from cooking school I told you about that put Cilantro with everything?
-/r
+\r
 P: Oh sure, Cilantro Larry.
-/r
+\r
 M: well, I'm gonna fill in for him as food critic for the Chelsea Reporter.
 
