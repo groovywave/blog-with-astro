@@ -16,3 +16,4 @@ L: I didn't realize that she was so close.<br>
 R: Yes, so close. Mrs. Lynch, I know that this is an emotional and difficult time, for all of us. But **by any chance** did Joanna send any paperwork your way before... it happened.<br>
 <br>
 L: no. Nothing. Imagine, if she had just stepped off that curb a few second later.<br>
+<br>

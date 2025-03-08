@@ -16,3 +16,4 @@ R: Listen, Joey, I know what he did was wrong. But don't you think you could at 
 J: Back when you and Rachel were together, if Chandler had kissed her, would you **hear him out**?  <br>
 <br>
 R: That's a good point.<br>
+<br>
