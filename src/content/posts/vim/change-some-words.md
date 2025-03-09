@@ -17,8 +17,9 @@ Change some words
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP1 1 1 <CR> <Esc> 
-2. c 4 w We              (change 4 words)
+1. /TIP <CR> <Esc>       (search tip)
+2. c 4 w We              (CHANGE 4 WORDS TO We)
 ---
-You practie TIP111 and then you will be better
+You practie TIP and then you will be better
+TIP11
 ```

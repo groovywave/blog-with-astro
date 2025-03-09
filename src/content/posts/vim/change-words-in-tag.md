@@ -17,9 +17,10 @@ change words in tag
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP5 1 2 <CR>
-2. ww ci" # <Esc>
-3. cit click here <Esc>
+1. /url <CR>             (search url)
+2. ci" # <Esc>           (CHANGE WORDS IN "")
+3. cit click here <Esc>  (CHANGE WORDS IN TAG)
 ---
-TIP512 '<a href="{url}">{title}</a>'
+'<a href="{url}">{title}</a>'
+TIP51
 ```

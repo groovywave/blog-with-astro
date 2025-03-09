@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]select-all'
+title: '[Vim]change word'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -17,8 +17,8 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /we <CR> <Esc>
-2. cw you <Esc>
-3. cW I'm <Esc>
+2. cw you <Esc>    (CHANGE WORD TO you)
+3. cW I'm <Esc>    (CHANGE WORD TO I'm)
 ---
 we're going too slow
 ```
