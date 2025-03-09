@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]mercy'
+title: '[FRIENDS]be at someone's mercy, get back down'
 pubDate: 2025-03-08
 description: 'FRIENDS'
 author: 'Noritaka'
