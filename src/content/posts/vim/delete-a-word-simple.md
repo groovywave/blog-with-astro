@@ -17,9 +17,10 @@ Search methods
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /093 <CR> <Esc> 
+1. /tip <CR> <Esc> 
 2. dw u          (delete a word)
 3. daw           (delete a word)
 ---
-You practie TIP093
+You practie TIP
+TIP09
 ```

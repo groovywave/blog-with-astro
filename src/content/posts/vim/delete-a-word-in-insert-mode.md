@@ -17,10 +17,11 @@ Search methods
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP1 3 1 <CR> <Esc> e a
+1. /tip <CR> <Esc> e a
 2. <C-h>  (delete a letter)
 3. <C-w>  (delete a word)
 4. <C-u>  (delete a some words)
 ---
-You practie TIP131 and then you will be better
+You practie TIP and then you will be better
+TIP13
 ```

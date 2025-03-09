@@ -19,7 +19,7 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /ir <CR> (search ir)
-2. :%s///gn (count matching words)
+2. :%s///gn (COUNT MATCHING WORDS)
 ---
 
 irregular

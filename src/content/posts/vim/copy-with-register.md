@@ -17,10 +17,11 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /coll <CR> 
-2. "ayiw        (yank in word to register a)
+2. "ayiw        (YANK IN WORD TO REGISTER a)
 3. /targ        (search targ) 
 4. diw          (delete in word)
-5. "aP          (pasete before register a)
+5. "aP          (PASETE BEFORE REGISTER a)
 ---
-TIP595 collection = getCollection();
+collection = getCollection();
 process(somethingInTheWay, target)
+TIP59
