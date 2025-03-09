@@ -17,12 +17,11 @@ Add an indent and repeat it
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /you <CR> <Esc>  (search you)
-2. >>               (insert indent)
-3. j . j .          (insert indent again)
+1. /tip <CR>                   (search tip)
+2. qq                          (start registration q)
+3. A <Space> - <Space> * <Esc> (add - *)
+4. q                           (stop registration q)
+5. 22@q                        (run macro in registration q 22 times)
 ---
-You practice 
-You practice 
-You practice 
-TIP01
+tip71
 ```

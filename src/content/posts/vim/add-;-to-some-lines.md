@@ -16,10 +16,11 @@ change-some-words-with-visual-mode
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP 2 6 1 <CR> <Esc>
-2. j <C-q> j$ (select with visual mode <C-q> or <C-v>)
-3. A; <Esc>   (add ;)
+1. /foo <CR> <Esc>  (search foo)
+2. <C-q> $G         (select all with <C-q> or <C-v>)
+3. A; <Esc>         (add ;)
 ---
-const foo = TIP261;
+const foo = "foo"
 const bar = "a"
 const footer = foo + bar
+TIP26

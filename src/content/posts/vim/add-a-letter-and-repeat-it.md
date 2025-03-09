@@ -17,9 +17,12 @@ Add an indent and repeat it
 Copy and paste the below text and type some commands like below.
 
 ---
-/TIP0 2 1 <CR> <Esc> A ; <Esc> j . j . 
+1. /you <CR> <Esc> 
+2. A ; <Esc>
+3. j . j . 
 ---
-You practice TIP021
 You practice
 You practice
+You practice
+TIP02 
 ```
