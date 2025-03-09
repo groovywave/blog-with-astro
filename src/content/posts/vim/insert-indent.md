@@ -18,7 +18,7 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /you <CR> <Esc>  (search you)
-2. **>>**           (insert indent)
+2. >>               (INSERT INDENT)
 3. j . j .          (insert indent again)
 ---
 You practice 
