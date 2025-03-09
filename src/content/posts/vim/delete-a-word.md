@@ -17,8 +17,9 @@ Search methods
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP0 9 1 <CR><Esc>
+1. /tip <CR><Esc>
 2. e d b x 
 ---
-You practie TIP091
+You practie TIP
+TIP09
 ```
