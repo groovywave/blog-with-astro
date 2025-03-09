@@ -17,12 +17,14 @@ Edit a macro
 Copy and paste the below text and type some commands like below.
 
 ---
-/tip 7 1 1 <CR> (Serch tip711)
-qq yyp q u 　   (Record yyp into register q)
-:put q <CR>　   (Paste registered command yyp )
-A p <Esc>　　   (Edit the command)
-V "qy uu        (Rerecord the edited command into register q  )
-@q              (Run command register q)
+/tip <CR>       (Serch tip)
+qq yyp q   　   (Record macro yyp into register q)
+u
+:put q <CR>　   (Paste registered the macro)
+A p <Esc>　　   (Edit the macro)
+V"qy            (Rerecord the edited command into register q  )
+uu 
+@q              (Run registered macro q)
 ---
-tip711
+tip71
 ```
