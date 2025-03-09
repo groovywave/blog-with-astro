@@ -16,7 +16,7 @@ select-all
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /we <CR> <Esc>
+1. /we <CR> <Esc>  (search we)
 2. cw you <Esc>    (CHANGE WORD TO you)
 3. cW I'm <Esc>    (CHANGE WORD TO I'm)
 ---
