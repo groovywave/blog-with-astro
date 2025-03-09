@@ -17,17 +17,19 @@ Visual block mode
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP2 2 1 <CR> <Esc>
-2. V j > <Esc>
-3. j . <Esc>
+1. /you <CR> <Esc>   (search you)
+2. V j               (select 2 rows)
+3. **>** <Esc>           (insert indent)
+3. j . <Esc>         (insert indent again)
 ---
 You practice 
-	You practice 
-	You practice 
+You practice 
+You practice 
 You practice TIP221 
 You practice 
 You practice 
 You practice 
 You practice
 You practice
+TIP22
 ```
