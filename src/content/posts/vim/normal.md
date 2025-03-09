@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]change-some-words-with-visual-mode'
+title: '[Vim]:normal'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,15 +12,18 @@ tags: ["Vim",]
 ---
 
 ```
-change-some-words-with-visual-mode
+change-some-words-with-visual-mode-in-normal-mode
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /foo <CR> <Esc>  (search foo)
-2. <C-q> $G         (select all with <C-q> or <C-v>)
-3. A; <Esc>         (add ;)
+1. /foo                 (search foo)
+2. A; <Esc>             (insert ;)
+2. jVG                  (select the others)
+3. **:normal** . <CR>   (insert; again in normal mode)
 ---
 const foo = "foo"
 const bar = "a"
-const footer = foo + bar
+const foo = foo 
+const foobar = foo + bar
+const footer = foo + ter
 TIP26

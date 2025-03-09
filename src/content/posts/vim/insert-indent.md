@@ -1,8 +1,8 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Add specific word to all lines'
-pubDate: 2025-02-25
+title: '[Vim]insert indent'
+pubDate: 2025-02-14
 description: 'Vim practice'
 author: 'Noritaka'
 image:
@@ -11,16 +11,18 @@ image:
 tags: ["Vim",]
 ---
 
+
 ```
-Add specific word to all lines
+Add an indent and repeat it
 Copy and paste the below text and type some commands like below.
 
 ---
-1. :%normal A;
-2. :%normal i//
+1. /you <CR> <Esc>  (search you)
+2. **>>**           (insert indent)
+3. j . j .          (insert indent again)
 ---
-const foo = TIP261
-const bar = "a"
-const foo = foo 
-const foobar = foo + bar
-const footer = foo + ter
+You practice 
+You practice 
+You practice 
+TIP01
+```

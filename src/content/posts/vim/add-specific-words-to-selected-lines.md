@@ -16,12 +16,15 @@ Add specific word to all lines
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /tip 2 6 1 <CR> <Esc>
-2. vjj :normal i// <CR> <Esc>
-3. vkk :normal A;  <CR> <Esc>
+1. /foo <CR> <Esc>               (search foo)
+2. vjj                           (select some rows)
+4. **:normal i// <CR> <Esc>**    (insert // in normal mode)
+5. vkk                           (select some rows)
+6. **:normal A;  <CR> <Esc>**    (insert ; in normal mode)
 ---
-const foo = TIP261
+const foo = "foo"
 const bar = "a"
 const foo = foo 
 const foobar = foo + bar
 const footer = foo + ter
+tip26

@@ -17,9 +17,9 @@ Add an indent and repeat it
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /you <CR> <Esc> 
-2. A ; <Esc>
-3. j . j . 
+1. /you <CR> <Esc>  (search you)
+2. A ; <Esc>        (insert ;)
+3. **j . j . **     (insert again)
 ---
 You practice
 You practice

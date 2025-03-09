@@ -1,8 +1,8 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Add an indent and repeat it'
-pubDate: 2025-02-14
+title: '[Vim]visual block'
+pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
 image:
@@ -11,18 +11,16 @@ image:
 tags: ["Vim",]
 ---
 
-
 ```
-Add an indent and repeat it
+change-some-words-with-visual-mode
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /you <CR> <Esc>  (search you)
-2. >>               (insert indent)
-3. j . j .          (insert indent again)
+1. /foo <CR> <Esc>  (search foo)
+2. **<C-q>** $G     (select all with <C-q> or <C-v>)
+3. A; <Esc>         (add ;)
 ---
-You practice 
-You practice 
-You practice 
-TIP01
-```
+const foo = "foo"
+const bar = "a"
+const footer = foo + bar
+TIP26
