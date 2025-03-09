@@ -20,7 +20,7 @@ Copy and paste the below text and type some commands like below.
 1. /you <CR> <Esc>   (search you)
 2. V j               (select 2 rows)
 3. > <Esc>           (INSERT INDENTS)
-3. j . <Esc>         (insert indent again)
+4. j . <Esc>         (insert indent again)
 ---
 You practice 
 You practice 
