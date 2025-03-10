@@ -17,41 +17,16 @@ Go back to the previous position
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /here <CR> <Esc>
+1. /this <CR> <Esc>
 2. /over <CR> <Esc>
 3. <C-o>
 ---
-here
+This
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-over there
+Over there
 ```

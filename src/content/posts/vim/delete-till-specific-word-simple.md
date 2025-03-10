@@ -17,10 +17,13 @@ delete till specific word with visual
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP4 8 10 <CR> <Esc> 
+1. /this <CR> <Esc> 
 2 /take <CR>
 3. d /ge <CR>  <Esc>
+4. .
 ---
-TIP4810 This phrase takes time but
+This phrase takes time but
 eventually gets to the point.
+eventually gets to the point.
+TIP48
 ```

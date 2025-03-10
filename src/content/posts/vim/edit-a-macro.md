@@ -20,9 +20,9 @@ Copy and paste the below text and type some commands like below.
 /tip <CR>       (Serch tip)
 qq yyp q   　   (Record macro yyp into register q)
 u
-:put q <CR>　   (Paste registered the macro)
-A p <Esc>　　   (Edit the macro)
-V"qy            (Rerecord the edited command into register q  )
+:put q <CR>　   (PASTE REGISTERED THE MACRO)
+A p <Esc>　　   (EDIT THE MACRO)
+V"qy            (RERECORD THE EDITED COMMAND INTO REGISTER q  )
 uu 
 @q              (Run registered macro q)
 ---

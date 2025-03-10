@@ -17,11 +17,13 @@ delete till specific word with visual
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP4 8 9 <CR> <Esc> 
-2. /ta <CR>          (move to ta)
-3. v /ge <CR>        (set visual mode and move to ge)
-4. h d <Esc>         (delete)
+1. /thi <CR> <Esc> 
+2. /ta <CR>          (jump to ta)
+3. v /ge <CR>        (SET VISUAL MODE AND JUMP TO GE)
+4. h                 (jump to left)
+5. d <Esc>           (delete)
 ---
-TIP489 This phrase takes time but
+This phrase takes time but
 eventually gets to the point.
+TIP48
 ```

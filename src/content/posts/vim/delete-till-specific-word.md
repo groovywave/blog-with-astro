@@ -17,7 +17,10 @@ Search specific words with f
 Copy and paste the below text and type some commands like below.
 
 ---
-/TIP4 8 6 <CR> f, dt.
+1. /i' <CR>    (search i)
+2. f,         (SEARCH , IN the ROW)
+3. dt.        (delete till .)
 ---
-TIP486 I've been expecting you, Mister Bond.
+I've been expecting you, Mister Bond.
+TIP48
 ```
