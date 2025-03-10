@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]delete specific word'
+title: '[Vim]delete a word'
 pubDate: 2025-02-14
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,11 +13,15 @@ tags: ["Vim",]
 
 
 ```
-delete specific word
+delete a word
 Copy and paste the below text and type some commands like below.
 
 ---
-/TIP4 8 7 <CR> <Esc> fx daw
+1. /imp <CR> <Esc> 
+2. fx                 (search x)
+3. daw                (DELEGE A WORD)
 ---
-TIP487 Improv your writing by dleting excellent adjectives.
+Improv your writing by dleting excellent adjectives.
+TIP48
+
 ```
