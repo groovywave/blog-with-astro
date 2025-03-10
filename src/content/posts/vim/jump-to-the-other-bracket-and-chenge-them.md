@@ -17,10 +17,12 @@ jump to the other bracket
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP5 4 2 <CR> 
-2. j 0 % r]       (jump the other bracket and replace it)
-3. '' r[          (jump to original position and replace it)
+1. /{ <CR>        (search { )
+2. %              (JUMP TO THE OTHER BRACKET)
+3. r]             (replace with ] )
+3. ''             (JUMP TO ORIGINAL POSITION)
+5. r[             (replace with [ )
 ---
-TIP542 
 {London, New\ York, Berlin}
+TIP54 
 ```

@@ -24,7 +24,7 @@ Copy and paste the below text and type some commands like below.
 ---
 const foo = "foo"
 const bar = "a"
-const foo = foo 
+const ter = "foo"
 const foobar = foo + bar
 const footer = foo + ter
 tip26

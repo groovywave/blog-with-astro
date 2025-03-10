@@ -17,13 +17,15 @@ Join some sentences
 copy and paste the below text and type some commands like below.
 
 ---
-/tip7 3 4 (search the word.)
+/line <CR> (search  line)
 vipJ      (select in a paragraph and join that.)
 ---
 
-tip734
 Line
-Line
-that
+control is
+important
+
+tip73
+
 ```
 
