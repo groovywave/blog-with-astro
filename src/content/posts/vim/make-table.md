@@ -16,16 +16,19 @@ Cmake-tablie
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP2 4 1 <CR> <Esc>
-2. ved         (delete a word)
-3. <C-q> 3j    (delete a word or <C-v> 3j)
+1. /id <CR> <Esc>
+2. el 
+3. <C-q> 3j    (SELECT A COLUMN)
 4. x..         (delet 3 columns)
-5. gv          (select again)
-6. r|          (replace with |)
+5. gv          (SELECT AGAIN)
+6. r|          (REPLACE WITH |)
 7  yyp         (copy and paste a line)
-8. Vr-         (replace with -)
+8. VR-         (REPLACE WITH -)
+8. /40 <CR>    (search 40)
+2. ved or daw  (delete a word)
 ---
-id TIP241    value
-a      10
-b      20
-c      30
+id   value
+a        10
+b        20
+c        30   40
+TIP24   

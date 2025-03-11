@@ -17,10 +17,13 @@ jump to the other bracket
 Copy and paste the below text and type some commands like below.
 
 ---
-/TIP5 4 1
-2. f ( <CR> %  (search and move to the other)
-3. h %         (point ] and move to the other)
-4. l % <Esc>   (point { and move to the other)
+1. f ( <CR>    (search and move to the other)
+2. %           (JUMP TO THE OTHER BRACKET)
+3. h 
+4. %           (JUMP TO THE OTHER BRACKET)
+5. l
+6. %           (JUMP TO THE OTHER BRACKET)
 ---
-TIP541 console.log([{'a':1}, {'b':2}]);
+console.log([{'a':1}, {'b':2}]);
+TIP54
 ```

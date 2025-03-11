@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]search and change words in tag'
+title: '[Vim]jump'
 pubDate: 2025-02-24
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,27 +13,20 @@ tags: ["Vim",]
 
 
 ```
-search and change words
+jump
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /origin <CR> /jump <CR> <Esc>
-2. ''                      (jump to origin)
-3. /change <CR> V U <Esc>
-4. /jump <CR> '.               (jump and return to changed word)
-5. /insert <CR> I insert <Esc>' 
-6. /jump <CR> '^               (jump to changed word) 
-5. /insert I insert /jump <CR> '^ <Esc>
-6. /yank <CR> yy <Esc>
-7. /jump <CR> '[ 　<Esc> '] <Esc>
-8. /visual <CR> V
-9. /jump <Esc> '> <Esc> '>
+1. /origin <CR> 
+2. V U <Esc>
+3. yyp <Esc>
+4. o insert <Esc>
+5. G
+6. ''                      (JUMP TO PREVIOUS POSITION)
+7. '.                      (JUMP TO LAST CHANGED POSITION)
+8. '^                      (JUMP TO LAST INSERT POSITION) j
+9. '[ 　<Esc> '] <Esc>     (JUMP TO LAST CHANGED OR YANKED POSITION)
+10. '< 　<Esc> '> <Esc>    (JUMP TO LAST SELECTED POSITION)
 ---
 origin/
-change
-insertinsertinsert 
-yank or change
-visual
-jump
-jump again
 ```

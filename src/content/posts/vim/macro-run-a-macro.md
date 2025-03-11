@@ -22,7 +22,7 @@ Copy and paste the below text and type some commands like below.
 3. A;         (execute command)
 4. <Esc> q    (stop register macro)
 5. jVj        (select sentence)
-6. @q         (execute the macro)
+6. @q         (RUN THE MACRO)
 ---
 foo = 1
 var = 'a'

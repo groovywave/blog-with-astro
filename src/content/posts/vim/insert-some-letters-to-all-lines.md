@@ -16,8 +16,9 @@ Add specific word to all lines
 Copy and paste the below text and type some commands like below.
 
 ---
-1. :%normal A;
-2. :%normal i//
+1. :%normal A;         (INSERT  ; to all rows IN NORMAL MODE)
+2. :%normal i//        (INSERT // to all rows IN NORMAL MODE)
+
 ---
 const foo = "foo"
 const bar = "a"

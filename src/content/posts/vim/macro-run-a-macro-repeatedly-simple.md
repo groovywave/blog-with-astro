@@ -23,7 +23,7 @@ Copy and paste the below text and type some commands like below.
 4. w~ j      (jump to next word and convert to uppercase)
 5. j         (move to next line)
 6. q         (stop registration macro q)
-7. 3@q       (run the macro 3 times)
+7. 3@q       (RUN THE MACRO 3 TIMES)
 ---
 1. one
 2. two

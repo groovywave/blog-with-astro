@@ -24,7 +24,7 @@ Copy and paste the below text and type some commands like below.
 5. I            (insert mode)
 6. every
 7. <Esc> q      (stop register macro q)
-8. 10@q         (run macro 10 times)
+8. 10@q         (RUN MACRO 10 TIMES)
 ---
 somebody
 somebody

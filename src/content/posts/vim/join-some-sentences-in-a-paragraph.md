@@ -18,7 +18,7 @@ copy and paste the below text and type some commands like below.
 
 ---
 /line <CR> (search  line)
-vipJ      (select in a paragraph and join that.)
+vipJ       (SELECT IN A PARAGRAPH AND JOIN THAT)
 ---
 
 Line
