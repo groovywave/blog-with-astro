@@ -18,14 +18,15 @@ Move and change the word
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP2 9 3 <CR> <Esc>
+1. /hard <CR> <Esc>
 2. Vj 
 3. dGp
 ---
 Shoping list
-	TIP293 Hardware Store
+	Hardware Store
 		Buy new hammer
 	Beauty Parlor
 		Buy nail poish remover
 		Buy nails
+TIP29 
 ```

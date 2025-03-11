@@ -18,7 +18,12 @@ Move and change the word
 Copy and paste the below text and type some commands like below.
 
 ---
-/TIP0 2 2<CR><Esc> I <Esc> A <Esc> c0 <Esc> C <Esc> 
+1.  /vim <CR> <Esc>
+2. I <Esc>
+3. A <Esc> 
+4. c0 <Esc>     (DELETE FROM HERE TO HEAD)
+5. C <Esc>      (DELETE FROM HERE TO END)
 ---
-You practice TIP022
+You practice vim
+TIP02
 ```
