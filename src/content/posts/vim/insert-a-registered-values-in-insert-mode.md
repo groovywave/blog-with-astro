@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Paste registered values in insert mode'
+title: '[Vim]insert a registered values in insert mode'
 pubDate: 2025-02-13
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-paste registered values in insert mode
+insert a registered values in insert mode
 copy and paste the below text and type some commands like below.
 
 ---

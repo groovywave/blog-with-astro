@@ -17,8 +17,9 @@ Search methods
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP1 6 1 <CR> <Esc>
-2. A <C-r> = 6*35 <CR> <Esc> 
+1. /cha <CR> <Esc>
+2. A <C-r> = 6*35 <CR> <Esc>         (INSERT CALCULATED NUMBER)
 ---
-TIP161 6 chairs, each costing $35, totals $
+6 chairs, each costing $35, totals $
+TIP16
 ```

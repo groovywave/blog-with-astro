@@ -18,9 +18,11 @@ Move and change the word
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP2 9 2 <CR> <Esc>
-2. Vj                  (select 2 lines)
-3. :m$                 (move to end)
+1. /sho <CR> <Esc>
+2. Vj                       (select 2 lines)
+3. :m1 <CR>                 (MOVE TO ROW 1)
+3. :m10 <CR>                (MOVE TO ROW 10)
+3. :m$ <CR>                 (MOVE TO END)
 ---
 Shoping list
 	TIP292 Hardware Store
@@ -28,4 +30,5 @@ Shoping list
 	Beauty Parlor
 		Buy nail poish remover
 		Buy nails
+TIP29
 ```

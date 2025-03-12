@@ -19,8 +19,10 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /hard <CR> <Esc>
-2. Vj 
-3. dGp
+2. Vj                (select)
+3. d                 (delete)
+4. G                 (jump to end)
+5. p                 (paste)
 ---
 Shoping list
 	Hardware Store

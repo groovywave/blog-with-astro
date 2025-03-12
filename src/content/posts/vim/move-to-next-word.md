@@ -16,7 +16,7 @@ select-all
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /tip 4 8 3 <CR> <Esc>
+1. /we <CR> <Esc>
 2. wwwww 0
 3. WWWWW $ 
 4. bbbbb $ 
@@ -24,5 +24,6 @@ Copy and paste the below text and type some commands like below.
 6. eeeee 0
 6. EEEEE 
 ---
-TIP483 e.g. we're going too slow
+e.g. we're going too slow
+TIP48 
 ```

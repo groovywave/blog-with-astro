@@ -19,7 +19,7 @@ Copy and paste the below text and type some commands like below.
 1. /foo                 (search foo)
 2. A; <Esc>             (insert ;)
 2. jVG                  (select the others)
-3. **:normal** . <CR>   (insert; again in normal mode)
+3. :normal . <CR>       (INSERT; AGAIN IN NORMAL MODE)
 ---
 const foo = "foo"
 const bar = "a"
