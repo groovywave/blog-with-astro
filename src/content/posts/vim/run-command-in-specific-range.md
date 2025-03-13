@@ -19,7 +19,7 @@ Copy and paste the below text and type some commands like below.
 ---
 1. :g/{/.+1,/}/-1>
 
-  (:g/{/   search { )
+  (:g/{/   global search {  search every {)
   (.+1     from current line +1 )
   (,/}/-1  to line include } -1 )
   (>       run command > {do indent} )
