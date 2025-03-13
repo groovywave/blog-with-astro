@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]select-all'
+title: '[Vim]tab'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,7 +12,7 @@ tags: ["Vim",]
 ---
 
 ```
-select-all
+tab
 Copy and paste the below text and type some commands like below.
 
 ---
@@ -25,7 +25,7 @@ Copy and paste the below text and type some commands like below.
 6. :tablast           (go to the last tab)
 7. :tabclose          (close tab)
 8. :tabonly           (close the other)
-9. :tabs              (show tabs)
+9. :tabs              (show tab)
 ---
 <!DOCTYPE html>
 <html>

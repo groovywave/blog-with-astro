@@ -17,7 +17,11 @@ Search and change the word
 Copy and paste the below text and type some commands like below.
 
 ---
-/TIP0 3 1 <CR> <Esc> <Esc> f + cl <space> + <space> <Esc> ; . ; . ;  
+1. /tip <CR> <Esc>
+2. f +                                     (SEARCH +)
+3. cl <space> + <space> <Esc>              (change letter)
+4. ; . ; . ;                               (SEARCH AGAIN AND REPLACE IT)
 ---
-You practice TIP031+and+then+you+will+be+better!
+You practice TIP1+and+then+you+will+be+better!
+tip03
 ```

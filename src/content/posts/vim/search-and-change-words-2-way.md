@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Search and chane words'
+title: '[Vim]Search and chane words 2 way'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,14 +12,21 @@ tags: ["Vim",]
 ---
 
 ```
-Add specific word to all lines
+Search and chane words 2 way
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP3 3 1 <CR> <Esc> 
-2. w * cw I <Esc>n . n .
+1. /he <CR>  
+2. cwI <Esc>  
+3. n . n .
+
+1. *
+2. cw I <Esc>
+3. n . n .
 ---
 TIP331 He will be better 
 He will be better 
 He will be better 
 He will be better 
+TIP33
+```
