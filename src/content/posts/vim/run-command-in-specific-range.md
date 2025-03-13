@@ -17,14 +17,20 @@ Edit a macro
 Copy and paste the below text and type some commands like below.
 
 ---
-1. :g/{/ .+1,/}/-1 >
+1. :g/{/.+1,/}/-1>
+
   (:g/{/   search { )
   (.+1     from current line +1 )
   (,/}/-1  to line include } -1 )
-  (run command > {do indent} )
+  (>       run command > {do indent} )
 ---
 function sum(a, b){
 //add parameter
 return a + b;
 }
+
+function sum(a, b)@
+  //add parameter
+  return a + b;
+!
 ```

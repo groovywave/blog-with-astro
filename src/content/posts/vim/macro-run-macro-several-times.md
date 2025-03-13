@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-Add an indent and repeat it
+run macro several times
 Copy and paste the below text and type some commands like below.
 
 ---

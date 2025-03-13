@@ -17,9 +17,10 @@ Replace a letter
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP 1 9 1 <CR> <Esc> 
+1. /tip  <CR> <Esc> 
 2. f .                     (search .)
-3. r ,                     (Replace "." with ",")
+3. r ,                     (REPLACE "." WITH ",")
 ---
-TIP191 line. But
+TIP line. But
+TIP19
 ```

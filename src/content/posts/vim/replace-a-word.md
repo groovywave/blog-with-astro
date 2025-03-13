@@ -20,7 +20,7 @@ Copy and paste the below text and type some commands like below.
 1. /col <CR>  (search col)
 2. yiw        (yank in word)
 3. /par <CR>  (search par)
-4. ve p       (select the word and paste yanked value)
+4. vep        (SELECT THE WORD AND PASTE YANKED VALUE)
 ---
 collection = getCollection();
 process(param, target);

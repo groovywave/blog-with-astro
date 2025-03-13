@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]print(confirm)-range'
+title: '[Vim]replace simple'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,20 +12,23 @@ tags: ["Vim",]
 ---
 
 ```
-print(confirm)-range
+replace simple
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP 2 8 1 <CR>
-2. :.,$p <CR>   (print from current line to end line)
-3. :1,$p <CR>   (print from line 1 to end line)
-4. :%p <CR>     (print all)
-5. :%s/Practice/Learn/gc  (replace)
-6. :.,+3p       (print current line and 3 lines  )
+1. /h2 <CR> <Esc>
+2. yy               (YANK A LINE)
+3. j  
+4. Vp               (PASTE A LINE)
 ---
 <!DOCTYPE html>
 <html>
   <head><title>TIP281 Vim</title></head>
   <body><h1>Practice Vim</h1></body>
+  <h2>Practice Vim</h2>
+  ????????????????????????
 </html>
+
+
+
 ```

@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Replace quated words'
+title: '[Vim]Replace searched words'
 pubDate: 2025-02-23
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,13 +13,14 @@ tags: ["Vim",]
 
 
 ```
-Replace Search quated words
+Replace searched words
 Copy and paste the below text and type some commands like below.
 
 ---     
-1. /sa  <CR>              (search the word)
-2. *cwsea <Esc>           (change the words)
-3. n . n .                (change the words)
+1. /sa  <CR>              (SEARCH THE WORD)
+2. *                      (SELECT THE OTHERS)
+2. cwsea <Esc>            (change the word to sea)
+3. n . n .                (jump to next searched word and do it again)
 ---
 I sell saaaa shells by the saaaa shore
 I sell saaaa shells by the saaaa shore

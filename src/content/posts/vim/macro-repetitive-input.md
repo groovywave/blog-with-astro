@@ -17,9 +17,9 @@ Repetitive input
 Copy and paste the below text and type some commands like below.
 
 ---
-/tip7 1 2 <CR>
+/tip <CR>
 qq A <Space> - <Space> * <Esc> q
 22@q
 ---
-tip712
+tip71
 ```
