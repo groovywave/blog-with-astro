@@ -24,7 +24,7 @@ Copy and paste the below text and type some commands like below.
 2. cw I <Esc>
 3. n . n .
 ---
-TIP331 He will be better 
+He will be better 
 He will be better 
 He will be better 
 He will be better 
