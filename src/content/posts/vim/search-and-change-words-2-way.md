@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Search and chane words 2 way'
+title: '[Vim]Search and change words 2 way'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,7 +12,7 @@ tags: ["Vim",]
 ---
 
 ```
-Search and chane words 2 way
+Search and change words 2 way
 Copy and paste the below text and type some commands like below.
 
 ---

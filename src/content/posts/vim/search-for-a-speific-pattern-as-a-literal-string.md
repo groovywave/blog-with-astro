@@ -17,9 +17,10 @@ search for a specific pattern as a literal string'
 copy and paste the below text and type some commands like below.
 
 ---
-1. /a.k.a.
+1. /a.k.a.        (search a.k.a. and backward)
 2. n n n n n
-1. /\Va.k.a. <CR> (Search with literal switch mode. You can serch for a specific pattern as a literal string.)
+1. /\Va.k.a. <CR> (search only a.k.a. )
+  (Search with literal switch mode. You can serch for a specific pattern as a literal string.)
 2. n n n n n 
 ---
 a.k.a.

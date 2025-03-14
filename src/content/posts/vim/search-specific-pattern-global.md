@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Edit a macro'
+title: '[Vim]Search specific pattern global'
 pubDate: 2025-02-11
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-Edit a macro
+Search specific pattern global
 Copy and paste the below text and type some commands like below.
 
 ---

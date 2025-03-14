@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Add an indent and repeat it'
+title: '[Vim]run command again'
 pubDate: 2025-02-14
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-Add an indent and repeat it
+run command again
 Copy and paste the below text and type some commands like below.
 
 ---
