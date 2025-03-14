@@ -22,7 +22,7 @@ Copy and paste the below text and type some commands like below.
 
   (/\v search very magic mode)
   (/\v search single quated word include like 'it's me')
----
+ 
 'quated' andoroid
 'two' quated 'words'
 'two'quated'words'
