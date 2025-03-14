@@ -17,11 +17,12 @@ Search methods
 Copy and paste the below text and type some commands like below.
 
 ---
-/TIP0 4 1 <CR> <Esc>
+/you <CR> <Esc>
 f P <Esc>             (search forward P)
 F T  <Esc>            (search backward T)
 t P  <Esc>            (search forward till P)
 T T  <Esc>            (search forward till T)
 ---
-TIP041 You practie 
+You practie 
+TIP04
 ```

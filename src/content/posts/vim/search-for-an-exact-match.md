@@ -18,6 +18,8 @@ copy and paste the below text and type some commands like below.
 
 ---
 1. /\v<and> <CR>3dd
+  (/\v search very magic mode)
+  (<and> searches for the exact word 'and', without matching words like 'ander'  )
 ---
 and
 ander
