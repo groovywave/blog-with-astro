@@ -18,8 +18,8 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /sea <CR>
-2. /ta <CR> nn
-3. /tak <CR> nn
+2. /ta <CR> nn     (search ta)
+3. /tak <CR> nn    (search tak)
 ---
 search for your target
 it only takes a moment
