@@ -1,4 +1,5 @@
 
+
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
 title: '[Vim]Search and replace URL'
@@ -18,7 +19,7 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /htt  <CR> j 
-2. "uyi[ (write two lines)
+2. "uyi[ (yank in [ value to "u indicates register u)
 3. /\V<C-r>u <CR> (swap lines)
 4. n n n n n 
 5. /tip7 8 1 <CR> j
