@@ -17,10 +17,11 @@ Search specific words with f
 Copy and paste the below text and type some commands like below.
 
 ---
-1. 1l 1l /TIP4 8 4 <CR> fc ; ; ; , , ; ; <Esc>
-2. $ Fc ; ; ; , , <Esc>
-3. 0 tc  <Esc>
-3. $ TC  <ESC>
+1. /fin <CR> fc ; ; , , ; ; <Esc>
+2. $ Fc ; ; , , <Esc>
+3. 0 tc  ; ; , , <Esc>
+4. $ TC  ; ; , , <Esc>
 ---
-TIP484 Find the first occurrence of {char} and move to it.
+Find the first occurrence of {char} and move to it.
+TIP48 
 ```

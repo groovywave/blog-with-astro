@@ -17,7 +17,7 @@ Search and replace URL
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /tip 7 8 1 <CR> j 
+1. /htt  <CR> j 
 2. "uyi[ (write two lines)
 3. /\V<C-r>u <CR> (swap lines)
 4. n n n n n 
@@ -26,11 +26,11 @@ Copy and paste the below text and type some commands like below.
 7. https://www.google.com <CR> <Esc>
 8. n . n . n .
 ---
-tip781
 [http://vimdoc.net/]
 [http://vimdoc.net/]
 [http://vimdoc.net/]
 [http://vimdoc.net/]
 [http://emacsdoc.net/]
 [http://tmuxdoc.net/]
+tip78
 ```

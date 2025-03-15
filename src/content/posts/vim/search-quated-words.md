@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Search quated words
+title: '[Vim]Search quated words like 'word'
 '
 pubDate: 2025-02-14
 description: 'Vim practice'

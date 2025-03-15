@@ -29,8 +29,22 @@ function sum(a, b){
 return a + b;
 }
 
+function sum(a, b){
+//add parameter
+return a + b;
+}
+
 function sum(a, b)@
   //add parameter
   return a + b;
 !
+
+function sum(a, b)@
+  //add parameter
+  return a + b;
+!
+
+:g/@/.+1,/!/-1>
+yy@0
+
 ```
