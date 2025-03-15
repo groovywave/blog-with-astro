@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]delete till specific word with visual'
+title: '[Vim]Delete till specific word with visual'
 pubDate: 2025-02-14
 description: 'Vim practice'
 author: 'Noritaka'

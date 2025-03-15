@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]increment number'
+title: '[Vim]Increment number'
 pubDate: 2025-02-24
 description: 'Vim practice'
 author: 'Noritaka'

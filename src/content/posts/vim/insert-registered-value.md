@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Add registered word'
+title: '[Vim]Insert registered word'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -28,3 +28,4 @@ it's other registers.
 7. ":　(executed command)
 8. "/　(searched word)
 ---
+```

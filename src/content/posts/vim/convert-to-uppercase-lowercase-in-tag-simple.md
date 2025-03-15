@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]convert to uppercase'
+title: '[Vim]Convert to uppercase'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'

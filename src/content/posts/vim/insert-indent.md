@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]insert indent'
+title: '[Vim]Insert indent'
 pubDate: 2025-02-14
 description: 'Vim practice'
 author: 'Noritaka'

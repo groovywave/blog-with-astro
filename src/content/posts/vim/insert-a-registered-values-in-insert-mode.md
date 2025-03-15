@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]insert a registered values in insert mode'
+title: '[Vim]Insert a registered values in insert mode'
 pubDate: 2025-02-13
 description: 'Vim practice'
 author: 'Noritaka'

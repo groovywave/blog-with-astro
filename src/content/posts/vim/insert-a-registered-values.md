@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]insert registered values'
+title: '[Vim]Insert registered values'
 pubDate: 2025-02-13
 description: 'Vim practice'
 author: 'Noritaka'

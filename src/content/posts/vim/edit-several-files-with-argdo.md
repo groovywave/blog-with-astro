@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]edit several files with argdo'
+title: '[Vim]Edit several files with argdo'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'

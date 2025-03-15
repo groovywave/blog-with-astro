@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Delte some words'
+title: '[Vim]Delete some words'
 pubDate: 2025-02-24
 description: 'Vim practice'
 author: 'Noritaka'

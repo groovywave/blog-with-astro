@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]change words in tag'
+title: '[Vim]Change words in tag'
 pubDate: 2025-02-24
 description: 'Vim practice'
 author: 'Noritaka'

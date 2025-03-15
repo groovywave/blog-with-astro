@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]convert to uppercase lowercase in tag.md
+title: '[Vim]Convert to uppercase lowercase in tag.md
 '
 pubDate: 2025-02-25
 description: 'Vim practice'

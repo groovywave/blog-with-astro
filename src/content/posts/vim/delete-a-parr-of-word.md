@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]delete a part of word'
+title: '[Vim]Delete a part of word'
 pubDate: 2025-02-24
 description: 'Vim practice'
 author: 'Noritaka'
