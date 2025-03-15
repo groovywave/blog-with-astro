@@ -26,6 +26,7 @@ Copy and paste the below text and type some commands like below.
 6. V*ci[
 7. https://www.google.com <CR> <Esc>
 8. n . n . n .
+  (this search can search only http )
 ---
 [http://vimdoc.net/]
 [http://vimdoc.net/]
