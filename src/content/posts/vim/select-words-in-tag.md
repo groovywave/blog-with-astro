@@ -28,9 +28,9 @@ Copy and paste the below text and type some commands like below.
 9. vap
 ---
 
+'<a href="{url}">{stitle}</a>'
 '<a href="{url}">{title}</a>'
-'<a href="{url}">{title}</a>'
-'<a href="{url}">{title}</a>'
+'<a href="{url}">{stitle}</a>'
 
 TIP51 
 ```
