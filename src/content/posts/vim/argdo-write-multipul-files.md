@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]Write multipul files'
+title: '[Vim]argdo Write multipul files'
 pubDate: 2025-02-14
 description: 'Vim practice'
 author: 'Noritaka'

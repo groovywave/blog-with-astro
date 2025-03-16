@@ -17,11 +17,13 @@ Search methods
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /TIP151 <CR> <Esc>
-2. y t ,                (yank till ,)
-3. j A                  (inset mode)
-4. <C-r> 0 . <Esc>      (paste)
+1. /you <CR> <Esc>
+2. y t ,                (YANK TILL ,)
+3. j A <Space>          (inset mode)
+4. <C-r> 0 . <Esc>      (PASTE)
 ---
 you practie tip151, and then you will be better
 it's better for
+TIP15 
 ```
+

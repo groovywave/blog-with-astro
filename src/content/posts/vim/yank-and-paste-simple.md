@@ -16,10 +16,12 @@ yank and paste simple
 Copy and paste the below text and type some commands like below.
 
 ---
-1l /123 <CR>
+1. /1 <CR>
 2. vey                    (yank in word )
-3. /456 <CR> 
-3. pu                     (paste after the cursol)
-3. PU                     (paste before the cursonl)
+3. /4 <CR> 
+4. ep                    (PASTE AFTER THE CURSOL)
+5. <Esc> u
+6. /4 <CR> 
+7. P                     (PASTE BEFORE THE CURSONL)
 ---
 123 456 789

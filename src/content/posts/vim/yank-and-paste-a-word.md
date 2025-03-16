@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]yank and paste a word'
+title: '[Vim]Yank and paste a word'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,13 +12,14 @@ tags: ["Vim",]
 ---
 
 ```
-yank and paste a word
+Yank and paste a word
 Copy and paste the below text and type some commands like below.
 
 ---
-1l /pra <CR>
-2. yiw                    (yank in word )
+1. /pra <CR>
+2. yiw                    (YANK IN WORD )
 3. <Esc> o <Esc> p        (paste)
 ---
 Practicavlim
+
 
