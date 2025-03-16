@@ -1,8 +1,8 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]delete till specific word with visual'
-pubDate: 2025-02-14
+title: '[Vim]Select in bracket'
+pubDate: 2025-03-16
 description: 'Vim practice'
 author: 'Noritaka'
 image:
@@ -13,11 +13,10 @@ tags: ["Vim",]
 
 
 ```
-delete till specific word with visual
+Delete till specific word with visual
 Copy and paste the below text and type some commands like below.
 
 ---
-/TIP5 1 1 <CR>
 /u <CR> <Esc>
 3. vi} <Esc> 
 4. va" <Esc> 
@@ -26,7 +25,8 @@ Copy and paste the below text and type some commands like below.
 7. vat <Esc> 
 8. va] 
 ---
-TIP511 const tpl = [
+const tpl = [
 	'<a href="{url}">{title}</a>'
 ]
+
 ```

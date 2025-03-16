@@ -18,16 +18,19 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /title <CR> <Esc>  
-2. viw <Esc> 
-3. 0 vaw <Esc> 
-4. 0 viW <Esc> 
-5. 0 vaW <Esc> 
-6. 0 vis <Esc> 
-7. 0 vas <Esc>
-8. 0 vip <Esc>
-9. 0 vap
+2. viw <Esc> n
+3. vaw <Esc> n
+4. viW <Esc> n
+5. vaW <Esc> n
+6. vis <Esc> n
+7. vas <Esc> n
+8. vip <Esc> n
+9. vap
 ---
-TIP513 '<a href="{url}">{title}</a>'
+
 '<a href="{url}">{title}</a>'
 '<a href="{url}">{title}</a>'
+'<a href="{url}">{title}</a>'
+
+TIP51 
 ```
