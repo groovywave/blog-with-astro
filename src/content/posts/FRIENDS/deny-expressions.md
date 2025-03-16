@@ -17,9 +17,8 @@ I don't really think it's a very good idea.  (I don't think it's a very good ide
 <br>
 <br>
 I don't really think it's a good idea.        (I don't think it's a good idea.)<br>
-<br>
  not good. <br>I don't think it's good practice.
-<br>
+<br><br>
 I really don't think it's a very good idea.   (I DON'T think it's a very good idea.)
 <br>
  NOT very good. <br>I DON'T think it's the best practice.
