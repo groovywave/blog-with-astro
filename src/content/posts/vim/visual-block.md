@@ -17,10 +17,9 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. /foo <CR> <Esc>  (search foo)
-2. **<C-q>** $G     (select all with <C-q> or <C-v>)
+2. <C-q> $G         (SELECT ALL WITH <C-q> OR <C-v>)
 3. A; <Esc>         (add ;)
 ---
-const foo = "foo"
-const bar = "a"
+const Gconst bar = "a"
 const footer = foo + bar
 TIP26

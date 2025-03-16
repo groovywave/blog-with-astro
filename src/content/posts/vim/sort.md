@@ -17,10 +17,8 @@ Sort
 Copy and paste the below text and type some commands like below.
 
 ---
-1. /a
-2. vi{
-3. :sort <CR>
-8. cat test*.txt
+1. vi{
+2. :sort <CR>
 ---
 {
 a

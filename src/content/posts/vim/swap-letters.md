@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]swap letters'
+title: '[Vim]Swap letters'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,7 +12,7 @@ tags: ["Vim",]
 ---
 
 ```
-swap letters
+Swap letters
 Copy and paste the below text and type some commands like below.
 
 ---
@@ -20,4 +20,5 @@ Copy and paste the below text and type some commands like below.
 2. fv         (search v)
 3. xp         (swap letters)
 ---
-TIP591 Practicavlim
+Practicavlim
+

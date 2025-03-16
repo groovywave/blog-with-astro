@@ -1,9 +1,8 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]show registration macro
-'
-pubDate: 2025-02-11
+title: '[Vim]Show registration macro'
+pubDate: 2025-03-16
 description: 'Vim practice'
 author: 'Noritaka'
 image:
@@ -19,9 +18,9 @@ Copy and paste the below text and type some commands like below.
 
 ---
 1. qq o <Esc> q
-2. :reg q <CR>
+2. :reg q <CR>   (show register )
+3. @q            (execute the macro)
 ---
-6. @q         (execute the macro)
 foo = 1
 var = 'a'
 foobar = foo + bar
