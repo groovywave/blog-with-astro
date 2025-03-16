@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-search for a specific word
+Search for a specific word
 copy and paste the below text and type some commands like below.
 
 ---

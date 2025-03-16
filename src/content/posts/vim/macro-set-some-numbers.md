@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]:set some numbers'
+title: '[Vim]:Set some numbers'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,7 +12,7 @@ tags: ["Vim",]
 ---
 
 ```
-set some numbers
+Set some numbers
 Copy and paste the below text and type some commands like below.
 
 ---

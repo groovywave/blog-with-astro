@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]make-table'
+title: '[Vim]Make-a-table'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,7 +12,7 @@ tags: ["Vim",]
 ---
 
 ```
-Cmake-tablie
+Make-a-table
 Copy and paste the below text and type some commands like below.
 
 ---

@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]search for a word and move the cursor to the end of it'
+title: '[Vim]Search for a word and move the cursor to the end of it'
 pubDate: 2025-02-19
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-search for a word and move the cursor to the end of it
+Search for a word and move the cursor to the end of it
 Insert a word after specific word
 Copy and paste the below text and type some commands like below.
 

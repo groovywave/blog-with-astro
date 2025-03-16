@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]tab'
+title: '[Vim]Tab'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'

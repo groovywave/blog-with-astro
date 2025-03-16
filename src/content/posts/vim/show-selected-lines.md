@@ -2,7 +2,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]print(confirm)-range'
+title: '[Vim]Print(confirm)-range'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'

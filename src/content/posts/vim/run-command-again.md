@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]run command again'
+title: '[Vim]Run command again'
 pubDate: 2025-02-14
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-run command again
+Run command again
 Copy and paste the below text and type some commands like below.
 
 ---

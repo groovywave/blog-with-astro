@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-Delete till specific word with visual
+Select in bracket
 Copy and paste the below text and type some commands like below.
 
 ---

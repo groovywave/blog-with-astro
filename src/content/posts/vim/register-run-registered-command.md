@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-do registered command 
+Run  registered command 
 copy and paste the below text and type some commands like below.
 
 ---

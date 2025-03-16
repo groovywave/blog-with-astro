@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]yank and paste simple'
+title: '[Vim]Yank and paste simple'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,7 +12,7 @@ tags: ["Vim",]
 ---
 
 ```
-yank and paste simple
+Yank and paste simple
 Copy and paste the below text and type some commands like below.
 
 ---

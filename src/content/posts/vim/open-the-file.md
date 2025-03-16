@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]open the file'
+title: '[Vim]Open the file'
 pubDate: 2025-02-24
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-open the file
+Open the file
 Copy and paste the below text and type some commands like below.
 
 ---

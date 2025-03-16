@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-search for a specific pattern as a literal string'
+Search for a specific pattern as a literal string'
 copy and paste the below text and type some commands like below.
 
 ---

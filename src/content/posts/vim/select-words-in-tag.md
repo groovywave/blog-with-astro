@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]select  words in tag'
+title: '[Vim]Select  words in tag'
 pubDate: 2025-02-24
 description: 'Vim practice'
 author: 'Noritaka'
@@ -13,7 +13,7 @@ tags: ["Vim",]
 
 
 ```
-select words in tag
+Select words in tag
 Copy and paste the below text and type some commands like below.
 
 ---

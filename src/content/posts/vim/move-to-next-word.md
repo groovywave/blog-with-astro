@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]select-all'
+title: '[Vim]Move to next word'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'

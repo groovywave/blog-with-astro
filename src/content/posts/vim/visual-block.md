@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Vim]visual block'
+title: '[Vim]Visual block'
 pubDate: 2025-02-25
 description: 'Vim practice'
 author: 'Noritaka'
@@ -12,7 +12,7 @@ tags: ["Vim",]
 ---
 
 ```
-change-some-words-with-visual-mode
+Visual block
 Copy and paste the below text and type some commands like below.
 
 ---

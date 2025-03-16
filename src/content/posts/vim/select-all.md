@@ -12,7 +12,7 @@ tags: ["Vim",]
 ---
 
 ```
-select-all
+Select-all
 Copy and paste the below text and type some commands like below.
 
 ---
