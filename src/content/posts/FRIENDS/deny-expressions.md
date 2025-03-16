@@ -13,11 +13,11 @@ tags: ["FRIENDS",]
 
 I don't really think it's a very good idea.  (I don't think it's a very good idea.)
 <br>
- not very good. <br>I don't think it's the best practice.
+ not really very good. <br>I don't think it's the best practice.
 <br>
 <br>
 I don't really think it's a good idea.        (I don't think it's a good idea.)<br>
- not good. <br>I don't think it's good practice.
+ not really good. <br>I don't think it's good practice.
 <br><br>
 I really don't think it's a very good idea.   (I DON'T think it's a very good idea.)
 <br>
