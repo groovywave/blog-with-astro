@@ -1,19 +1,21 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[Git]Short cut for lazygit and lazynvim'
+title: '[typescript]boolean number string'
 pubDate: 2025-02-11
-description: 'Git practice'
+description: 'typescript'
 author: 'Noritaka'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'Astro'
-tags: ["Lazygit", "Lazynvim"]
+tags: ["typescript", ]
 ---
 
 
 
-**short cut for lazygit**
+**boolean**
+**number**
+**string**
 ```
 let hasValue: boolean = true;
 let count: number = 10;
