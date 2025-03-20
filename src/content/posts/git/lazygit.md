@@ -23,4 +23,5 @@ tags: ["Lazygit", "LazyVim"]
 6. <C-h>           (move to directory tree)
 7. <C-'arrow key'> (Expand window)
 8. :Lazy <CR> U    (Update Lazynvim)
+9. a               (add a file)
 ```
