@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]type function void'
+title: '[typescript]type undefined null'
 pubDate: 2025-02-11
 description: 'typescript'
 author: 'Noritaka'
@@ -14,8 +14,7 @@ tags: ["typescript", ]
 
 
 ```
-function sayHello(): void {
-  console.log('hello');
-}
+let tmpUndefined: undefined = undefined;
+let tmpNull: null = null;
 
 ```
