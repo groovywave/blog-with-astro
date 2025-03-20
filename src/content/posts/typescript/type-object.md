@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]type inference'
+title: '[typescript]type object'
 pubDate: 2025-02-11
 description: 'typescript'
 author: 'Noritaka'
@@ -14,12 +14,11 @@ tags: ["typescript", ]
 
 
 ```
-let hasValue = true;
-let count = 10;
-let float = 3.14;
-let negaative = -3.14;
-let single = 'hello';
-let double = "hello";
-let back = `hello`;
-let hello = 'hello';
+const person = {
+  name: {
+    first: 'Jack',
+    last: 'Smith',
+  },
+  age: 21,
+}
 ```

@@ -14,12 +14,5 @@ tags: ["typescript", ]
 
 
 ```
-let hasValue = true;
-let count = 10;
-let float = 3.14;
-let negaative = -3.14;
-let single = 'hello';
-let double = "hello";
-let back = `hello`;
-let hello = 'hello';
+let hello: string;
 ```
