@@ -19,7 +19,5 @@ M: I thought I **was making headway**, everyone was smiling at me all day, I get
 <br><br>
 P: Hey, maybe they mean to write, 'Quiet bitch'.<br>
 <br>
-M: I mean I have not been picked on this much since kindergarden and they had to bringing someone from junior high to do the see-saw with me. (Joey laughs and Monica glares at him.)<br>
-<br>
-P: Hey, maybe they mean to write, 'Quiet bitch'.<br>
+M: I mean I have not been picked on this much since kindergarten and they had to bringing someone from junior high to do the see-saw with me. (Joey laughs and Monica glares at him.)<br>
 <br>
