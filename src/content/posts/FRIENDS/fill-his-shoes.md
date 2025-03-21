@@ -13,7 +13,7 @@ tags: ["FRIENDS",]
 
 C: well, Kathy's last boyfriend was Joey.<br>
 <br>
-R : And you're afraid you won't able to... fill his shoes.<br>
+R : And you're afraid you won't able to... **fill his shoes**.<br>
 <br>
 C: No, I'm afraid I won't be able to make as well as him.<br>
 <br>
