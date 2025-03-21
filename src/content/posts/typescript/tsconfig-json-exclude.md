@@ -126,13 +126,21 @@ tags: ["typescript", ]
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
+  "include": [
+      "index.ts",
+  ],
   "exclude": [
-      "compiler.ts",         (ex. root)
-      "tmp/compiler.ts",     (ex. tmp/)
-      "**/compiler.ts",      (ex. anywhere)
-      "*.spec.ts",           (ex. anywhere)
-      "node_modules",        (ex. anywhere)
+      "compiler.ts",
+      "tmp/compiler.ts",
+      "**/compiler.ts",
+      "*.spec.ts",
+  ],
+  "files": [
+      "tmp/compiler.ts",
   ]
 }
 
+//you can compile "include"-"exclude"+"files"
+//you can set files and directorys with *, but you can only set files and can't use * in "files"
+// **/compiler.ts  all files compile.ts anywhere
 ```
