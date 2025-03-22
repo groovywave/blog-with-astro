@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]type arrow function'
+title: '[typescript]tsconfig sourcemaps'
 pubDate: 2025-03-24
 description: 'typescript'
 author: 'Noritaka'

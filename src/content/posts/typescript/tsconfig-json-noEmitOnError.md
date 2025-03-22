@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]type arrow function'
+title: '[typescript]tsconfig noEmitOnError'
 pubDate: 2025-03-24
 description: 'typescript'
 author: 'Noritaka'
@@ -15,6 +15,6 @@ tags: ["typescript", ]
 
 ```
 {
-"noEmitOnError": true, (don't creae js files, when an error occur)
+"noEmitOnError": true, (don't create js files, when an error occur)
 },
 ```
