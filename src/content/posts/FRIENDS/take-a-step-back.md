@@ -11,7 +11,7 @@ image:
 tags: ["FRIENDS",]
 ---
 
-P: Okay, is this the day of good news or what? I got us a job! Thewedding reception.<br>
+P: Okay, is this the day of good news or what? I got us a job! The wedding reception.<br>
 <br>
 M: Oh! Umm, Phoebe, I kinda need to talk to you abou that. Umm, well, I think it might be time for me to **take a step back from** catering.<br>
 <br>
