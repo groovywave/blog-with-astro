@@ -17,6 +17,7 @@ tags: ["typescript", ]
 {
   JavaScript Support */
     "declarationMap": true,
+    "sourceMap": true,                                /* Create source map files for emitted JavaScript files. */
     (make sourcemap files and browser can recognize ts files)
     /* Create sourcemaps for d.ts files. */
 }

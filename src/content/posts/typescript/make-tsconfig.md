@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]type arrow function'
+title: '[typescript]make tsconfig.json'
 pubDate: 2025-03-24
 description: 'typescript'
 author: 'Noritaka'
@@ -14,9 +14,8 @@ tags: ["typescript", ]
 
 
 ```
-tsc index.ts -w
-tsc index.ts -watch
-<C-c> 
-
+tsc --init        (make tsconfig.json)
+tsc               (refer tsconfig.json)
+tsc index.ts      (don't refer tsconfig.json)
 
 ```

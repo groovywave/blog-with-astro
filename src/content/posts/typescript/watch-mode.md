@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]type arrow function'
+title: '[typescript]watch mode'
 pubDate: 2025-03-24
 description: 'typescript'
 author: 'Noritaka'
@@ -14,8 +14,9 @@ tags: ["typescript", ]
 
 
 ```
-tsc --init        (make tsconfig.json)
-tsc               (refer tsconfig.json)
-tsc index.ts      (don't refer tsconfig.json)
+tsc index.ts -w
+tsc index.ts -watch
+<C-c> 
+
 
 ```
