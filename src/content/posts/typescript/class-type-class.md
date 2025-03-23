@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]class'
+title: '[typescript]class type class'
 pubDate: 2025-03-24
 description: 'typescript'
 author: 'Noritaka'
