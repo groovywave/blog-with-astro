@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]tsconfig allkowJs'
+title: '[typescript]class this'
 pubDate: 2025-03-24
 description: 'typescript'
 author: 'Noritaka'
