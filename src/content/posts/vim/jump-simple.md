@@ -17,7 +17,7 @@ jump simple
 Copy and paste the below text and type some commands like below.
 
 ---
-function add(a, b){]
+function add(a, b){
   return a + b;
 }
 let i = 0;
