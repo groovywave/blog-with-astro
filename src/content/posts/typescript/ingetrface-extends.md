@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]interface implements readonly 2'
+title: '[typescript]interface extends'
 pubDate: 2025-03-27
 description: 'typescript'
 author: 'Noritaka'
@@ -14,8 +14,11 @@ tags: ["typescript", ]
 
 
 ```
-interface Human {
-  readonly name: string;
+interface namable {
+  name: string;
+}
+
+interface Human extends namable {
   age: number;
   greeting(message: string): void;
 }
@@ -36,6 +39,5 @@ const tmpDeveloper = {
 const user: Human = tmpDeveloper;
 let developer = new Developer('Quill', 38, 3);
 developer.name = 'hello';
-(you can use depeloper.name = "xxx";)
 
 ```
