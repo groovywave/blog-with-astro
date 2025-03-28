@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[typescript]interface extends'
+title: '[typescript]interface new as constructor'
 pubDate: 2025-03-27
 description: 'typescript'
 author: 'Noritaka'
@@ -14,9 +14,19 @@ tags: ["typescript", ]
 
 
 ```
-type addFunc = (num1: number, num2: number) => numger;
-let addFunc: addFunc;
-addFunc = (n1: number, n2: number) => { return n1 + n2; }
+interface addFunc {
+  new(num1: number, num2: number): object;
+  foo: string;
+}
+function tmp(func: addFunc) {
+  let data = new func(1, 2);
+  console.log(data)
+}
 
+(
+use new as constructor
+and then
+define function using new as constructor
+)
 
 ```
