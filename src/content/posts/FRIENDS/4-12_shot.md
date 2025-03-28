@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]freaked'
+title: '[FRIENDS]shot'
 pubDate: 2025-03-16
 description: 'FRIENDS'
 author: 'Noritaka'
@@ -13,6 +13,6 @@ tags: ["FRIENDS",]
 
 Monica: How do you feel?
 
-Phoebe: Well, **freaked**. 'Cause it turns out that the odds are really suckey. And! This is Frank and Alice's like only shot. Like, they are literally putting all of their eggs i my basket.
+Phoebe: Well, freaked. 'Cause it turns out that the odds are really suckey. And! This is Frank and Alice's like only **shot**. Like, they are literally putting all of their eggs i my basket.
 
 Chandler: Yeah, but I bet it works.
