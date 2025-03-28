@@ -14,11 +14,17 @@ tags: ["typescript", ]
 
 
 ```
-type addFunc = (num1: number, num2: number) => numger;
+
+//type addFunc = (num1: number, num2: number) => numger;
+interface addFunc {
+  (num1: number, num2: number): number;
+}
 let addFunc: addFunc;
-addFunc = (n1: number, n2: number) => { return n1 + n2; }
+addFunc = (n1: number, n2: number) => {
+  return n1 + n2;
+}
  (
- use type alias 
+ use interface as type alias 
  and then 
  define the type of addFunc
  and then
