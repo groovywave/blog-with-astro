@@ -14,11 +14,11 @@ tags: ["typescript", ]
 
 
 ```
-interface Namable {
+interface Nameable {
   name: string;
 }
 
-interface Human extends Namable {
+interface Human extends Nameable {
   age: number;
   greeting(message: string): void;
 }

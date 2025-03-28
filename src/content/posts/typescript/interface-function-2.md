@@ -17,6 +17,12 @@ tags: ["typescript", ]
 type addFunc = (num1: number, num2: number) => numger;
 let addFunc: addFunc;
 addFunc = (n1: number, n2: number) => { return n1 + n2; }
-
+ (
+ use type alias 
+ and then 
+ define the type of addFunc
+ and then
+ define addFunc
+ )
 
 ```
