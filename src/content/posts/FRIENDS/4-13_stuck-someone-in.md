@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]screwed'
+title: '[FRIENDS]stuck someone in'
 pubDate: 2025-03-16
 description: 'FRIENDS'
 author: 'Noritaka'
@@ -11,9 +11,9 @@ image:
 tags: ["FRIENDS",]
 ---
 
-Chandler: Yeah, it's like someone literally wrote down my worst nightmare and then charged me $32 to see it!<br>
+Monica: Oh my God, are you out of a job?<br>
 <br>
-Phoebe: that's a good idea for a business!<br>
+Rachel: No, but they **stuck me in** personal shopping. Which is just a huge step down!<br>
 <br>
-Chandler: I'm totally **screwd**. Okay, they are gonna be hot and heavy on stage every night.<br>
+Phoebe: Personal shopping? What is that? Like where you walk around with snooty rich people and tell them what to buy?<br>
 <br>
