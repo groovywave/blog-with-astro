@@ -13,7 +13,7 @@ tags: ["FRIENDS",]
 
 P: Oh, I get a puppy!!<br>
 <br>
-S: Well, yeah!! Imean yeah, but only for three days.<br>
+S: Well, yeah!! I mean yeah, but only for three days.<br>
 <br>
 P: Why?<br>
 <br>
