@@ -21,7 +21,7 @@ tags: ["SQL", ]
 DROP TABLE IF EXISTS posts;
 CREATE TABLE posts (
 message VARCHAR(140) UNIQUE,
-like INT (likes >= 0 AND likes <= 100)
+like INT CHECK (likes >= 0 AND likes <= 100)
 );
 
 INSERT INTO posts (message, likes) VALUES
