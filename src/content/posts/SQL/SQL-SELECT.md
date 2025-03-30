@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[SQL]AUTO INCREMENT, PRIMARY KEY'
+title: '[SQL]SELECT'
 pubDate: 2025-03-29
 description: 'Git practice'
 author: 'Noritaka'
