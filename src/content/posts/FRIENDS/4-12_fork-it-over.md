@@ -11,7 +11,7 @@ image:
 tags: ["FRIENDS",]
 ---
 
-Chandler: All right! Ten buck! Fork it over! Cough it up! Pay the Piper! Gimme it.<br>
+Chandler: All right! Ten buck! **Fork it over**! Cough it up! Pay the Piper! Gimme it.<br>
 <br>
 Monica: That does not mean you know us better, ) want a rematch.<br>
 <br>

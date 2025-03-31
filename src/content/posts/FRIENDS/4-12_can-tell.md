@@ -13,4 +13,4 @@ tags: ["FRIENDS",]
 
 Phoebe: All right, I'm gonna go take apregnancy test, right now.
 
-Joey: Oh wow! You can tell this soon.
+Joey: Oh wow! You **can tell** this soon.

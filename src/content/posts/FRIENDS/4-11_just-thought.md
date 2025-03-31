@@ -11,7 +11,7 @@ image:
 tags: ["FRIENDS",]
 ---
 
-Phoebe Sr: hey! Okay! Well thanks for coming out to see me. I just thought it would be a very good idea to talk about this baby stuff in person.<br>
+Phoebe Sr: hey! Okay! Well thanks for coming out to see me. I **just thought** it would be a very good idea to talk about this baby stuff in person.<br>
 <br>
 Phoebe: Okay.<br>
 <br>
