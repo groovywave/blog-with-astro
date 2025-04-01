@@ -17,3 +17,5 @@ Ross: That's all you're **basing this on**?<br>
 <br>
 Chandler: That's <br>
 <br>not **backing me up**! Look, you said with the off-stage and the heat, and the onstage and the oy heat.
+Joey: Whoa-whoa, that was just a theory!<br>
+There's a lot of theories that didnYt **pan out**. The lone gunman. Communism. Geometry.
