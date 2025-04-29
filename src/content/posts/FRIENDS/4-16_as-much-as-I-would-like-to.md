@@ -1,4 +1,3 @@
-
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
 title: '[FRIENDS]4-16_as much as I would like to'
