@@ -11,6 +11,6 @@ image:
 tags: ["FRIENDS",]
 ---
 
-Phoebe: All right, I'm gonna go take apregnancy test, right now.
+Phoebe: All right, I'm gonna go take a pregnancy test, right now.
 
 Joey: Oh wow! You **can tell** this soon.
