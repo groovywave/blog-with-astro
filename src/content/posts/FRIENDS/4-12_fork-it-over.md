@@ -13,9 +13,9 @@ tags: ["FRIENDS",]
 
 Chandler: All right! Ten buck! **Fork it over**! Cough it up! Pay the Piper! Gimme it.<br>
 <br>
-Monica: That does not mean you know us better, ) want a rematch.<br>
+Monica: That does not mean you know us better, I want a rematch.<br>
 <br>
-Rachel: Yeah, and none of these stupid grocery uestions, real personal questions.<br>
+Rachel: Yeah, and none of these stupid grocery questions, real personal questions.<br>
 <br>
 Monica: Yeah! And the winner gets a hundred bucks.<br>
 <br>
