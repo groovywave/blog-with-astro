@@ -23,5 +23,5 @@ id | sed -e 's/uid=//' -e 's/(.*//' //show user's id number
 if [ "USERID" -ne 0 ]; then echo "user is not root"; else echo "user is root"; files
 sed -i 's/apple/orange/g' sample //edit sample file change apple to orange
 
-
+//utar : tape archive
 ```
