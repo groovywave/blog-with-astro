@@ -15,6 +15,6 @@ Chandler: She did not have to tell me, I saw the play, and there was no heat. **
 <br>
 Ross: That's all you're **basing this on**?<br>
 <br>
-Chandler: That's not **backing me up**! Look, you said with the off-stage and the heat, and the onstage and the oy heat.
-Joey: Whoa-whoa, that was just a theory!<br>
-There's a lot of theories that didnYt **pan out**. The lone gunman. Communism. Geometry.
+Chandler: That's not **backing me up**! Look, you said with the off-stage and the heat, and the onstage and the on heat.<br>
+<br>
+Joey: Whoa-whoa, that was just a theory! There's a lot of theories that didn't **pan out**. The lone gunman. Communism. Geometry.
