@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]stuck someone in'
+title: '[FRIENDS]4-13_stuck someone in'
 pubDate: 2025-03-16
 description: 'FRIENDS'
 author: 'Noritaka'

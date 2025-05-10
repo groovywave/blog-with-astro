@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]go easy on'
+title: '[FRIENDS]4-15_go easy on'
 pubDate: 2025-04-20
 description: 'FRIENDS'
 author: 'Noritaka'

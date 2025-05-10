@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]would you just for once'
+title: '[FRIENDS]4-14_would you just for once'
 pubDate: 2025-04-05
 description: 'FRIENDS'
 author: 'Noritaka'

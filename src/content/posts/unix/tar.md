@@ -27,6 +27,7 @@ sudo tar zxf zellij-x86_64-unknown-linux-musl.tar.gz -C /usr/local/bin
 z  : decompress
 x  : extract
 f  : file 
+C  : change directory
 zxf: extract the gzip(GNU zip)-compressed file
 
 

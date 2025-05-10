@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]fork it over'
+title: '[FRIENDS]4-12_fork it over'
 pubDate: 2025-03-16
 description: 'FRIENDS'
 author: 'Noritaka'

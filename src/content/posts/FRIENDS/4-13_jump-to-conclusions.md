@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]jump to conclusions'
+title: '[FRIENDS]4-13_jump to conclusions'
 pubDate: 2025-03-16
 description: 'FRIENDS'
 author: 'Noritaka'

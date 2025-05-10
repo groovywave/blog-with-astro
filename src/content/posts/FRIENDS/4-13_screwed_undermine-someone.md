@@ -1,7 +1,7 @@
 
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]screwed, undermine someone'
+title: '[FRIENDS]4-13_screwed, undermine someone'
 pubDate: 2025-03-16
 description: 'FRIENDS'
 author: 'Noritaka'
