@@ -21,4 +21,6 @@ Phoebe: Three? You guys were worried I wouldn't even have one!<br><br>
 The Doctor: Doctors are wrong **all the time**.<br><br>
 Phoebe: Well, yeah. 
 
+should : もし〜するようなことがあれば
+
 
