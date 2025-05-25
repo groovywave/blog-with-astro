@@ -37,4 +37,10 @@ case $# in
 *)
 // 1) 2) 以外
 
+>: update 
+echo "hello" > output.txt
+// over write with "hello"
+
+echo "hello" >> output.txt
+// add "hello" to end of line
 ```
