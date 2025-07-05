@@ -1,7 +1,7 @@
 ---
 # layout: ../../layouts/MarkdownPostLayout.astro
-title: '[FRIENDS]4-17 should'
-pubDate: 2025-05-25
+title: '[FRIENDS]4-18 be right out of your hair'
+pubDate: 2025-04-25
 description: 'FRIENDS'
 author: 'Noritaka'
 image:
@@ -17,6 +17,6 @@ Ross: I'm not proving anything Okay, I'm done listening to you. If I hadn't let 
 Chandler: You put your fist through the wall?<br><br>
 Ross: No, I missed and hit the door. But, it opened really hard!<br><br>
 
-talk me into : 説得して〜さる
+talk me into : 説得して〜させる
 
 
